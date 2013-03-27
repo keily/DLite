@@ -1,0 +1,18 @@
+﻿.round
+{
+	 -moz-border-radius: 10px;
+     -webkit-border-radius: 10px;
+     -border-radius: 10px; /* future proofing */
+     -khtml-border-radius: 10px; /* for old Konqueror browsers */	
+}
+
+.wrapper {
+     width:960px;
+     margin:0 auto;
+}
+
+.container {
+     min-height: 10em;
+     display: table-cell;
+     vertical-align: middle;
+ }
